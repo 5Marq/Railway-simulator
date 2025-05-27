@@ -1,0 +1,232 @@
+Currently created cars: 
+
+CarID0: ToxicCar: total weight 12311kg, cargo loaded 0.0kg|
+CarID1: GasCar: total weight 10762kg, cargo loaded 0.0kg|
+CarID2: LiquidToxicCar: total weight 13864kg, cargo loaded 0.0kg|
+CarID3: GasCar: total weight 11864kg, cargo loaded 0.0kg|
+CarID4: ExplosivesCar: total weight 11480kg, cargo loaded 0.0kg|
+CarID5: LiquidToxicCar: total weight 6489kg, cargo loaded 0.0kg|
+CarID6: PostOfficeCar: total weight 18983kg, cargo loaded 0.0kg|
+CarID7: PassengerCar: total weight 15110kg, cargo loaded 0.0kg|
+CarID8: ToxicCar: total weight 12286kg, cargo loaded 0.0kg|
+CarID9: RefrigeratedCar: total weight 11351kg, cargo loaded 0.0kg|
+CarID10: GasCar: total weight 7065kg, cargo loaded 0.0kg|
+CarID11: GasCar: total weight 9980kg, cargo loaded 0.0kg|
+CarID12: ToxicCar: total weight 9999kg, cargo loaded 0.0kg|
+CarID13: PostOfficeCar: total weight 23549kg, cargo loaded 0.0kg|
+CarID14: BaggageCar: total weight 7892kg, cargo loaded 0.0kg|
+CarID15: BaggageCar: total weight 21665kg, cargo loaded 0.0kg|
+CarID16: PostOfficeCar: total weight 17342kg, cargo loaded 0.0kg|
+CarID17: RestaurantCar: total weight 12989kg, cargo loaded 0.0kg|
+CarID18: LiquidToxicCar: total weight 8789kg, cargo loaded 1500.0kg|
+CarID19: LiquidCar: total weight 12992kg, cargo loaded 0.0kg|
+CarID20: ToxicCar: total weight 10622kg, cargo loaded 0.0kg|
+CarID21: LiquidCar: total weight 14881kg, cargo loaded 0.0kg|
+CarID22: RestaurantCar: total weight 11185kg, cargo loaded 0.0kg|
+CarID23: PassengerCar: total weight 25322kg, cargo loaded 0.0kg|
+CarID24: LiquidToxicCar: total weight 6926kg, cargo loaded 0.0kg|
+CarID25: RefrigeratedCar: total weight 8139kg, cargo loaded 0.0kg|
+CarID26: RefrigeratedCar: total weight 5886kg, cargo loaded 0.0kg|
+CarID27: RefrigeratedCar: total weight 10797kg, cargo loaded 0.0kg|
+CarID28: BaggageCar: total weight 16281kg, cargo loaded 0.0kg|
+CarID29: PostOfficeCar: total weight 24206kg, cargo loaded 0.0kg|
+CarID30: ToxicCar: total weight 9346kg, cargo loaded 0.0kg|
+CarID31: ExplosivesCar: total weight 7801kg, cargo loaded 0.0kg|
+CarID32: BaggageCar: total weight 16616kg, cargo loaded 0.0kg|
+CarID33: RestaurantCar: total weight 5067kg, cargo loaded 0.0kg|
+CarID34: RefrigeratedCar: total weight 7956kg, cargo loaded 0.0kg|
+CarID35: GasCar: total weight 13741kg, cargo loaded 0.0kg|
+CarID36: GasCar: total weight 7401kg, cargo loaded 0.0kg|
+CarID37: LiquidCar: total weight 10863kg, cargo loaded 0.0kg|
+CarID38: LiquidToxicCar: total weight 7542kg, cargo loaded 0.0kg|
+CarID39: PassengerCar: total weight 14108kg, cargo loaded 0.0kg|
+CarID40: ExplosivesCar: total weight 13741kg, cargo loaded 0.0kg|
+CarID41: ToxicCar: total weight 11648kg, cargo loaded 0.0kg|
+CarID42: GasCar: total weight 11103kg, cargo loaded 0.0kg|
+CarID43: RestaurantCar: total weight 11528kg, cargo loaded 0.0kg|
+CarID44: PostOfficeCar: total weight 11058kg, cargo loaded 0.0kg|
+CarID45: LiquidCar: total weight 7622kg, cargo loaded 0.0kg|
+CarID46: RestaurantCar: total weight 9377kg, cargo loaded 0.0kg|
+CarID47: ToxicCar: total weight 12397kg, cargo loaded 0.0kg|
+CarID48: ExplosivesCar: total weight 12492kg, cargo loaded 0.0kg|
+CarID49: RestaurantCar: total weight 12980kg, cargo loaded 0.0kg|
+CarID50: RefrigeratedCar: total weight 14850kg, cargo loaded 0.0kg|
+CarID51: LiquidCar: total weight 6237kg, cargo loaded 0.0kg|
+CarID52: RefrigeratedCar: total weight 6592kg, cargo loaded 0.0kg|
+CarID53: PostOfficeCar: total weight 10156kg, cargo loaded 0.0kg|
+CarID54: RestaurantCar: total weight 8222kg, cargo loaded 0.0kg|
+CarID55: ToxicCar: total weight 7201kg, cargo loaded 0.0kg|
+CarID56: LiquidCar: total weight 5604kg, cargo loaded 0.0kg|
+CarID57: LiquidToxicCar: total weight 5223kg, cargo loaded 0.0kg|
+CarID58: LiquidToxicCar: total weight 5712kg, cargo loaded 0.0kg|
+CarID59: RefrigeratedCar: total weight 9075kg, cargo loaded 0.0kg|
+CarID60: ExplosivesCar: total weight 12178kg, cargo loaded 0.0kg|
+CarID61: PassengerCar: total weight 16931kg, cargo loaded 0.0kg|
+CarID62: GasCar: total weight 11335kg, cargo loaded 0.0kg|
+CarID63: LiquidToxicCar: total weight 7233kg, cargo loaded 0.0kg|
+CarID64: PassengerCar: total weight 29206kg, cargo loaded 0.0kg|
+CarID65: BaggageCar: total weight 8384kg, cargo loaded 0.0kg|
+CarID66: LiquidCar: total weight 5629kg, cargo loaded 0.0kg|
+CarID67: BaggageCar: total weight 13531kg, cargo loaded 0.0kg|
+CarID68: ToxicCar: total weight 5864kg, cargo loaded 0.0kg|
+CarID69: BaggageCar: total weight 7494kg, cargo loaded 0.0kg|
+CarID70: RefrigeratedCar: total weight 10644kg, cargo loaded 0.0kg|
+CarID71: RefrigeratedCar: total weight 8102kg, cargo loaded 0.0kg|
+CarID72: RestaurantCar: total weight 5612kg, cargo loaded 0.0kg|
+CarID73: RefrigeratedCar: total weight 9036kg, cargo loaded 0.0kg|
+CarID74: BaggageCar: total weight 7840kg, cargo loaded 0.0kg|
+CarID75: PostOfficeCar: total weight 19323kg, cargo loaded 0.0kg|
+CarID76: ToxicCar: total weight 7592kg, cargo loaded 0.0kg|
+CarID77: PassengerCar: total weight 22856kg, cargo loaded 0.0kg|
+CarID78: BaggageCar: total weight 21830kg, cargo loaded 0.0kg|
+CarID79: PostOfficeCar: total weight 12489kg, cargo loaded 0.0kg|
+CarID80: LiquidToxicCar: total weight 5836kg, cargo loaded 0.0kg|
+CarID81: LiquidToxicCar: total weight 9062kg, cargo loaded 0.0kg|
+CarID82: PassengerCar: total weight 29128kg, cargo loaded 0.0kg|
+CarID83: PostOfficeCar: total weight 18925kg, cargo loaded 0.0kg|
+CarID84: GasCar: total weight 7094kg, cargo loaded 0.0kg|
+CarID85: PassengerCar: total weight 23559kg, cargo loaded 0.0kg|
+CarID86: PassengerCar: total weight 29505kg, cargo loaded 0.0kg|
+CarID87: ExplosivesCar: total weight 8668kg, cargo loaded 0.0kg|
+CarID88: LiquidToxicCar: total weight 6984kg, cargo loaded 0.0kg|
+CarID89: LiquidCar: total weight 12107kg, cargo loaded 0.0kg|
+CarID90: BaggageCar: total weight 20943kg, cargo loaded 0.0kg|
+CarID91: LiquidCar: total weight 7759kg, cargo loaded 0.0kg|
+CarID92: RefrigeratedCar: total weight 10861kg, cargo loaded 0.0kg|
+CarID93: BaggageCar: total weight 16788kg, cargo loaded 0.0kg|
+CarID94: PostOfficeCar: total weight 9064kg, cargo loaded 0.0kg|
+CarID95: PassengerCar: total weight 24251kg, cargo loaded 0.0kg|
+CarID96: RefrigeratedCar: total weight 12055kg, cargo loaded 0.0kg|
+CarID97: RefrigeratedCar: total weight 9968kg, cargo loaded 500.0kg|
+CarID98: RefrigeratedCar: total weight 8079kg, cargo loaded 0.0kg|
+CarID99: ExplosivesCar: total weight 14450kg, cargo loaded 0.0kg|
+CarID100: BaggageCar: total weight 16004kg, cargo loaded 0.0kg|
+CarID101: RefrigeratedCar: total weight 13722kg, cargo loaded 0.0kg|
+CarID102: ToxicCar: total weight 11450kg, cargo loaded 0.0kg|
+CarID103: LiquidCar: total weight 8245kg, cargo loaded 0.0kg|
+CarID104: ExplosivesCar: total weight 11769kg, cargo loaded 0.0kg|
+CarID105: LiquidCar: total weight 12588kg, cargo loaded 0.0kg|
+CarID106: GasCar: total weight 14890kg, cargo loaded 0.0kg|
+CarID107: PassengerCar: total weight 17040kg, cargo loaded 0.0kg|
+CarID108: PostOfficeCar: total weight 10005kg, cargo loaded 0.0kg|
+CarID109: ExplosivesCar: total weight 6525kg, cargo loaded 0.0kg|
+CarID110: LiquidToxicCar: total weight 12259kg, cargo loaded 0.0kg|
+CarID111: ToxicCar: total weight 9681kg, cargo loaded 0.0kg|
+CarID112: PostOfficeCar: total weight 15489kg, cargo loaded 0.0kg|
+CarID113: ExplosivesCar: total weight 12909kg, cargo loaded 0.0kg|
+CarID114: LiquidToxicCar: total weight 9055kg, cargo loaded 0.0kg|
+CarID115: PassengerCar: total weight 17843kg, cargo loaded 0.0kg|
+CarID116: LiquidToxicCar: total weight 13410kg, cargo loaded 0.0kg|
+CarID117: PassengerCar: total weight 22698kg, cargo loaded 0.0kg|
+CarID118: GasCar: total weight 13561kg, cargo loaded 0.0kg|
+CarID119: ExplosivesCar: total weight 8653kg, cargo loaded 0.0kg|
+CarID120: PostOfficeCar: total weight 10040kg, cargo loaded 0.0kg|
+CarID121: LiquidCar: total weight 11190kg, cargo loaded 0.0kg|
+CarID122: LiquidCar: total weight 9021kg, cargo loaded 0.0kg|
+CarID123: RestaurantCar: total weight 8398kg, cargo loaded 0.0kg|
+CarID124: PassengerCar: total weight 29409kg, cargo loaded 0.0kg|
+CarID125: BaggageCar: total weight 15773kg, cargo loaded 0.0kg|
+CarID126: RestaurantCar: total weight 11001kg, cargo loaded 0.0kg|
+CarID127: LiquidToxicCar: total weight 5218kg, cargo loaded 0.0kg|
+CarID128: LiquidToxicCar: total weight 10920kg, cargo loaded 0.0kg|
+CarID129: BaggageCar: total weight 13506kg, cargo loaded 0.0kg|
+CarID130: PostOfficeCar: total weight 19503kg, cargo loaded 0.0kg|
+CarID131: RestaurantCar: total weight 6931kg, cargo loaded 0.0kg|
+CarID132: ToxicCar: total weight 9879kg, cargo loaded 0.0kg|
+CarID133: LiquidToxicCar: total weight 11188kg, cargo loaded 0.0kg|
+CarID134: BaggageCar: total weight 17643kg, cargo loaded 0.0kg|
+CarID135: RestaurantCar: total weight 8092kg, cargo loaded 0.0kg|
+CarID136: PostOfficeCar: total weight 17498kg, cargo loaded 0.0kg|
+CarID137: GasCar: total weight 6035kg, cargo loaded 0.0kg|
+CarID138: PostOfficeCar: total weight 9125kg, cargo loaded 0.0kg|
+CarID139: RestaurantCar: total weight 7760kg, cargo loaded 0.0kg|
+CarID140: PostOfficeCar: total weight 23656kg, cargo loaded 0.0kg|
+CarID141: ExplosivesCar: total weight 8662kg, cargo loaded 0.0kg|
+CarID142: LiquidCar: total weight 12062kg, cargo loaded 0.0kg|
+CarID143: ExplosivesCar: total weight 6027kg, cargo loaded 0.0kg|
+CarID144: PassengerCar: total weight 21439kg, cargo loaded 0.0kg|
+CarID145: PostOfficeCar: total weight 19595kg, cargo loaded 0.0kg|
+CarID146: LiquidCar: total weight 5637kg, cargo loaded 0.0kg|
+CarID147: BaggageCar: total weight 20268kg, cargo loaded 0.0kg|
+CarID148: RefrigeratedCar: total weight 13559kg, cargo loaded 0.0kg|
+CarID149: BaggageCar: total weight 13548kg, cargo loaded 0.0kg|
+CarID150: RestaurantCar: total weight 5438kg, cargo loaded 0.0kg|
+CarID151: ExplosivesCar: total weight 5700kg, cargo loaded 0.0kg|
+CarID152: ExplosivesCar: total weight 10284kg, cargo loaded 0.0kg|
+CarID153: LiquidCar: total weight 6904kg, cargo loaded 0.0kg|
+CarID154: ToxicCar: total weight 14719kg, cargo loaded 0.0kg|
+CarID155: RestaurantCar: total weight 12478kg, cargo loaded 0.0kg|
+CarID156: ToxicCar: total weight 11026kg, cargo loaded 0.0kg|
+CarID157: LiquidToxicCar: total weight 8763kg, cargo loaded 0.0kg|
+CarID158: BaggageCar: total weight 17139kg, cargo loaded 0.0kg|
+CarID159: ExplosivesCar: total weight 7169kg, cargo loaded 0.0kg|
+CarID160: ExplosivesCar: total weight 5221kg, cargo loaded 0.0kg|
+CarID161: ToxicCar: total weight 10114kg, cargo loaded 0.0kg|
+CarID162: RefrigeratedCar: total weight 10878kg, cargo loaded 0.0kg|
+CarID163: BaggageCar: total weight 20412kg, cargo loaded 0.0kg|
+CarID164: ExplosivesCar: total weight 6010kg, cargo loaded 0.0kg|
+CarID165: ExplosivesCar: total weight 7205kg, cargo loaded 0.0kg|
+CarID166: RefrigeratedCar: total weight 7441kg, cargo loaded 0.0kg|
+CarID167: GasCar: total weight 6135kg, cargo loaded 0.0kg|
+CarID168: ExplosivesCar: total weight 11587kg, cargo loaded 0.0kg|
+CarID169: ExplosivesCar: total weight 6366kg, cargo loaded 0.0kg|
+CarID170: LiquidCar: total weight 6991kg, cargo loaded 0.0kg|
+CarID171: PassengerCar: total weight 15448kg, cargo loaded 0.0kg|
+CarID172: LiquidCar: total weight 13897kg, cargo loaded 0.0kg|
+CarID173: PassengerCar: total weight 15133kg, cargo loaded 0.0kg|
+CarID174: ExplosivesCar: total weight 7558kg, cargo loaded 0.0kg|
+CarID175: ToxicCar: total weight 5200kg, cargo loaded 0.0kg|
+CarID176: ExplosivesCar: total weight 13804kg, cargo loaded 0.0kg|
+CarID177: RestaurantCar: total weight 12647kg, cargo loaded 0.0kg|
+CarID178: PostOfficeCar: total weight 13730kg, cargo loaded 0.0kg|
+CarID179: RefrigeratedCar: total weight 14512kg, cargo loaded 0.0kg|
+CarID180: BaggageCar: total weight 9683kg, cargo loaded 0.0kg|
+CarID181: GasCar: total weight 7068kg, cargo loaded 0.0kg|
+CarID182: BaggageCar: total weight 21340kg, cargo loaded 0.0kg|
+CarID183: BaggageCar: total weight 15029kg, cargo loaded 0.0kg|
+CarID184: PassengerCar: total weight 28135kg, cargo loaded 0.0kg|
+CarID185: LiquidToxicCar: total weight 12334kg, cargo loaded 0.0kg|
+CarID186: GasCar: total weight 8860kg, cargo loaded 0.0kg|
+CarID187: RefrigeratedCar: total weight 5126kg, cargo loaded 0.0kg|
+CarID188: LiquidCar: total weight 10444kg, cargo loaded 0.0kg|
+CarID189: RefrigeratedCar: total weight 5000kg, cargo loaded 0.0kg|
+CarID190: RestaurantCar: total weight 7336kg, cargo loaded 0.0kg|
+CarID191: ExplosivesCar: total weight 11375kg, cargo loaded 0.0kg|
+CarID192: LiquidCar: total weight 10986kg, cargo loaded 0.0kg|
+CarID193: ToxicCar: total weight 12082kg, cargo loaded 0.0kg|
+CarID194: LiquidCar: total weight 6380kg, cargo loaded 0.0kg|
+CarID195: LiquidCar: total weight 13567kg, cargo loaded 0.0kg|
+CarID196: GasCar: total weight 7508kg, cargo loaded 0.0kg|
+CarID197: PostOfficeCar: total weight 1500kg, cargo loaded 0.0kg|
+CarID198: ToxicCar: total weight 150kg, cargo loaded 0.0kg|
+
+
+Currently created train sets: 
+
+_TrainSetID1: Locomotive ID1: name nqgfygbheq Home station: Warsaw, current load 58487kg| % of route travelled: -Infinity Cars: CarID10: GasCar: total weight 7065kg, cargo loaded 0.0kg| CarID14: BaggageCar: total weight 7892kg, cargo loaded 0.0kg| CarID11: GasCar: total weight 9980kg, cargo loaded 0.0kg| CarID12: ToxicCar: total weight 9999kg, cargo loaded 0.0kg| CarID13: PostOfficeCar: total weight 23549kg, cargo loaded 0.0kg| 
+_TrainSetID12: Locomotive ID12: name jwdzdayo Home station: Warsaw, current load 72128kg| % of route travelled: -Infinity Cars: CarID94: PostOfficeCar: total weight 9064kg, cargo loaded 0.0kg| CarID97: RefrigeratedCar: total weight 9968kg, cargo loaded 500.0kg| CarID96: RefrigeratedCar: total weight 12055kg, cargo loaded 0.0kg| CarID93: BaggageCar: total weight 16788kg, cargo loaded 0.0kg| CarID95: PassengerCar: total weight 24251kg, cargo loaded 0.0kg| 
+_TrainSetID23: Locomotive ID23: name hamuq Home station: Warsaw, current load 94012kg| % of route travelled: -Infinity Cars: CarID181: GasCar: total weight 7068kg, cargo loaded 0.0kg| CarID180: BaggageCar: total weight 9683kg, cargo loaded 0.0kg| CarID177: RestaurantCar: total weight 12647kg, cargo loaded 0.0kg| CarID178: PostOfficeCar: total weight 13730kg, cargo loaded 0.0kg| CarID179: RefrigeratedCar: total weight 14512kg, cargo loaded 0.0kg| CarID183: BaggageCar: total weight 15029kg, cargo loaded 0.0kg| CarID182: BaggageCar: total weight 21340kg, cargo loaded 0.0kg| 
+_TrainSetID26: Locomotive ID26: name Galczynski Home station: Warsaw, current load 1650kg| % of route travelled: 0.0 Cars: CarID198: ToxicCar: total weight 150kg, cargo loaded 0.0kg| CarID197: PostOfficeCar: total weight 1500kg, cargo loaded 0.0kg| 
+_TrainSetID6: Locomotive ID6: name upqjgot Home station: Warsaw, current load 103411kg| % of route travelled: 0.007066886331708783 Cars: CarID45: LiquidCar: total weight 7622kg, cargo loaded 0.0kg| CarID46: RestaurantCar: total weight 9377kg, cargo loaded 0.0kg| CarID44: PostOfficeCar: total weight 11058kg, cargo loaded 0.0kg| CarID42: GasCar: total weight 11103kg, cargo loaded 0.0kg| CarID43: RestaurantCar: total weight 11528kg, cargo loaded 0.0kg| CarID47: ToxicCar: total weight 12397kg, cargo loaded 0.0kg| CarID48: ExplosivesCar: total weight 12492kg, cargo loaded 0.0kg| CarID49: RestaurantCar: total weight 12980kg, cargo loaded 0.0kg| CarID50: RefrigeratedCar: total weight 14850kg, cargo loaded 0.0kg| 
+_TrainSetID13: Locomotive ID13: name odkqfrb Home station: Warsaw, current load 83721kg| % of route travelled: 0.02235816822102757 Cars: CarID98: RefrigeratedCar: total weight 8079kg, cargo loaded 0.0kg| CarID103: LiquidCar: total weight 8245kg, cargo loaded 0.0kg| CarID102: ToxicCar: total weight 11450kg, cargo loaded 0.0kg| CarID104: ExplosivesCar: total weight 11769kg, cargo loaded 0.0kg| CarID101: RefrigeratedCar: total weight 13722kg, cargo loaded 0.0kg| CarID99: ExplosivesCar: total weight 14450kg, cargo loaded 0.0kg| CarID100: BaggageCar: total weight 16004kg, cargo loaded 0.0kg| 
+_TrainSetID5: Locomotive ID5: name ihxxuj Home station: Warsaw, current load 87004kg| % of route travelled: 0.02566183249771708 Cars: CarID36: GasCar: total weight 7401kg, cargo loaded 0.0kg| CarID38: LiquidToxicCar: total weight 7542kg, cargo loaded 0.0kg| CarID34: RefrigeratedCar: total weight 7956kg, cargo loaded 0.0kg| CarID37: LiquidCar: total weight 10863kg, cargo loaded 0.0kg| CarID41: ToxicCar: total weight 11648kg, cargo loaded 0.0kg| CarID40: ExplosivesCar: total weight 13741kg, cargo loaded 0.0kg| CarID35: GasCar: total weight 13741kg, cargo loaded 0.0kg| CarID39: PassengerCar: total weight 14108kg, cargo loaded 0.0kg| 
+_TrainSetID20: Locomotive ID20: name jkvmkzravn Home station: Warsaw, current load 103940kg| % of route travelled: 0.026906686677366898 Cars: CarID160: ExplosivesCar: total weight 5221kg, cargo loaded 0.0kg| CarID164: ExplosivesCar: total weight 6010kg, cargo loaded 0.0kg| CarID159: ExplosivesCar: total weight 7169kg, cargo loaded 0.0kg| CarID165: ExplosivesCar: total weight 7205kg, cargo loaded 0.0kg| CarID157: LiquidToxicCar: total weight 8763kg, cargo loaded 0.0kg| CarID161: ToxicCar: total weight 10114kg, cargo loaded 0.0kg| CarID162: RefrigeratedCar: total weight 10878kg, cargo loaded 0.0kg| CarID156: ToxicCar: total weight 11026kg, cargo loaded 0.0kg| CarID158: BaggageCar: total weight 17139kg, cargo loaded 0.0kg| CarID163: BaggageCar: total weight 20412kg, cargo loaded 0.0kg| 
+_TrainSetID19: Locomotive ID19: name sbkejk Home station: Warsaw, current load 102902kg| % of route travelled: 0.0351542203010304 Cars: CarID150: RestaurantCar: total weight 5438kg, cargo loaded 0.0kg| CarID151: ExplosivesCar: total weight 5700kg, cargo loaded 0.0kg| CarID153: LiquidCar: total weight 6904kg, cargo loaded 0.0kg| CarID152: ExplosivesCar: total weight 10284kg, cargo loaded 0.0kg| CarID155: RestaurantCar: total weight 12478kg, cargo loaded 0.0kg| CarID149: BaggageCar: total weight 13548kg, cargo loaded 0.0kg| CarID148: RefrigeratedCar: total weight 13559kg, cargo loaded 0.0kg| CarID154: ToxicCar: total weight 14719kg, cargo loaded 0.0kg| CarID147: BaggageCar: total weight 20268kg, cargo loaded 0.0kg| 
+_TrainSetID10: Locomotive ID10: name wpzqm Home station: Warsaw, current load 75443kg| % of route travelled: 0.0553619798482867 Cars: CarID80: LiquidToxicCar: total weight 5836kg, cargo loaded 0.0kg| CarID81: LiquidToxicCar: total weight 9062kg, cargo loaded 0.0kg| CarID79: PostOfficeCar: total weight 12489kg, cargo loaded 0.0kg| CarID83: PostOfficeCar: total weight 18925kg, cargo loaded 0.0kg| CarID82: PassengerCar: total weight 29128kg, cargo loaded 0.0kg| 
+_TrainSetID0: Locomotive ID0: name mzphu Home station: Warsaw, current load 124505kg| % of route travelled: 0.05793728296023699 Cars: CarID5: LiquidToxicCar: total weight 6489kg, cargo loaded 0.0kg| CarID1: GasCar: total weight 10762kg, cargo loaded 0.0kg| CarID9: RefrigeratedCar: total weight 11351kg, cargo loaded 0.0kg| CarID4: ExplosivesCar: total weight 11480kg, cargo loaded 0.0kg| CarID3: GasCar: total weight 11864kg, cargo loaded 0.0kg| CarID8: ToxicCar: total weight 12286kg, cargo loaded 0.0kg| CarID0: ToxicCar: total weight 12311kg, cargo loaded 0.0kg| CarID2: LiquidToxicCar: total weight 13864kg, cargo loaded 0.0kg| CarID7: PassengerCar: total weight 15110kg, cargo loaded 0.0kg| CarID6: PostOfficeCar: total weight 18983kg, cargo loaded 0.0kg| 
+_TrainSetID8: Locomotive ID8: name qlcdvikit Home station: Warsaw, current load 116255kg| % of route travelled: 0.09386204008724452 Cars: CarID66: LiquidCar: total weight 5629kg, cargo loaded 0.0kg| CarID68: ToxicCar: total weight 5864kg, cargo loaded 0.0kg| CarID63: LiquidToxicCar: total weight 7233kg, cargo loaded 0.0kg| CarID69: BaggageCar: total weight 7494kg, cargo loaded 0.0kg| CarID65: BaggageCar: total weight 8384kg, cargo loaded 0.0kg| CarID70: RefrigeratedCar: total weight 10644kg, cargo loaded 0.0kg| CarID62: GasCar: total weight 11335kg, cargo loaded 0.0kg| CarID67: BaggageCar: total weight 13531kg, cargo loaded 0.0kg| CarID61: PassengerCar: total weight 16931kg, cargo loaded 0.0kg| CarID64: PassengerCar: total weight 29206kg, cargo loaded 0.0kg| 
+_TrainSetID9: Locomotive ID9: name tkrrqisjm Home station: Warsaw, current load 102195kg| % of route travelled: 0.11863857997808687 Cars: CarID72: RestaurantCar: total weight 5612kg, cargo loaded 0.0kg| CarID76: ToxicCar: total weight 7592kg, cargo loaded 0.0kg| CarID74: BaggageCar: total weight 7840kg, cargo loaded 0.0kg| CarID71: RefrigeratedCar: total weight 8102kg, cargo loaded 0.0kg| CarID73: RefrigeratedCar: total weight 9036kg, cargo loaded 0.0kg| CarID75: PostOfficeCar: total weight 19323kg, cargo loaded 0.0kg| CarID78: BaggageCar: total weight 21830kg, cargo loaded 0.0kg| CarID77: PassengerCar: total weight 22856kg, cargo loaded 0.0kg| 
+_TrainSetID18: Locomotive ID18: name rhykjet Home station: Warsaw, current load 120002kg| % of route travelled: 0.15456211911195925 Cars: CarID146: LiquidCar: total weight 5637kg, cargo loaded 0.0kg| CarID143: ExplosivesCar: total weight 6027kg, cargo loaded 0.0kg| CarID137: GasCar: total weight 6035kg, cargo loaded 0.0kg| CarID139: RestaurantCar: total weight 7760kg, cargo loaded 0.0kg| CarID141: ExplosivesCar: total weight 8662kg, cargo loaded 0.0kg| CarID138: PostOfficeCar: total weight 9125kg, cargo loaded 0.0kg| CarID142: LiquidCar: total weight 12062kg, cargo loaded 0.0kg| CarID145: PostOfficeCar: total weight 19595kg, cargo loaded 0.0kg| CarID144: PassengerCar: total weight 21439kg, cargo loaded 0.0kg| CarID140: PostOfficeCar: total weight 23656kg, cargo loaded 0.0kg| 
+_TrainSetID16: Locomotive ID16: name gztgtne Home station: Warsaw, current load 100054kg| % of route travelled: 0.16239602586104226 Cars: CarID127: LiquidToxicCar: total weight 5218kg, cargo loaded 0.0kg| CarID123: RestaurantCar: total weight 8398kg, cargo loaded 0.0kg| CarID122: LiquidCar: total weight 9021kg, cargo loaded 0.0kg| CarID120: PostOfficeCar: total weight 10040kg, cargo loaded 0.0kg| CarID126: RestaurantCar: total weight 11001kg, cargo loaded 0.0kg| CarID121: LiquidCar: total weight 11190kg, cargo loaded 0.0kg| CarID125: BaggageCar: total weight 15773kg, cargo loaded 0.0kg| CarID124: PassengerCar: total weight 29409kg, cargo loaded 0.0kg| 
+_TrainSetID24: Locomotive ID24: name zlfbwi Home station: Warsaw, current load 64901kg| % of route travelled: 0.16568318036953802 Cars: CarID187: RefrigeratedCar: total weight 5126kg, cargo loaded 0.0kg| CarID186: GasCar: total weight 8860kg, cargo loaded 0.0kg| CarID188: LiquidCar: total weight 10444kg, cargo loaded 0.0kg| CarID185: LiquidToxicCar: total weight 12334kg, cargo loaded 0.0kg| CarID184: PassengerCar: total weight 28135kg, cargo loaded 0.0kg| 
+_TrainSetID15: Locomotive ID15: name akexgaedk Home station: Warsaw, current load 123303kg| % of route travelled: 0.16882359511861111 Cars: CarID119: ExplosivesCar: total weight 8653kg, cargo loaded 0.0kg| CarID114: LiquidToxicCar: total weight 9055kg, cargo loaded 0.0kg| CarID111: ToxicCar: total weight 9681kg, cargo loaded 0.0kg| CarID113: ExplosivesCar: total weight 12909kg, cargo loaded 0.0kg| CarID116: LiquidToxicCar: total weight 13410kg, cargo loaded 0.0kg| CarID118: GasCar: total weight 13561kg, cargo loaded 0.0kg| CarID112: PostOfficeCar: total weight 15489kg, cargo loaded 0.0kg| CarID115: PassengerCar: total weight 17843kg, cargo loaded 0.0kg| CarID117: PassengerCar: total weight 22698kg, cargo loaded 0.0kg| 
+_TrainSetID2: Locomotive ID2: name nepdknvtl Home station: Warsaw, current load 99284kg| % of route travelled: 0.23760062142499594 Cars: CarID18: LiquidToxicCar: total weight 8789kg, cargo loaded 1500.0kg| CarID20: ToxicCar: total weight 10622kg, cargo loaded 0.0kg| CarID17: RestaurantCar: total weight 12989kg, cargo loaded 0.0kg| CarID19: LiquidCar: total weight 12992kg, cargo loaded 0.0kg| CarID21: LiquidCar: total weight 14881kg, cargo loaded 0.0kg| CarID16: PostOfficeCar: total weight 17342kg, cargo loaded 0.0kg| CarID15: BaggageCar: total weight 21665kg, cargo loaded 0.0kg| 
+_TrainSetID11: Locomotive ID11: name neztcj Home station: Warsaw, current load 127483kg| % of route travelled: 0.2741014948204595 Cars: CarID88: LiquidToxicCar: total weight 6984kg, cargo loaded 0.0kg| CarID84: GasCar: total weight 7094kg, cargo loaded 0.0kg| CarID91: LiquidCar: total weight 7759kg, cargo loaded 0.0kg| CarID87: ExplosivesCar: total weight 8668kg, cargo loaded 0.0kg| CarID92: RefrigeratedCar: total weight 10861kg, cargo loaded 0.0kg| CarID89: LiquidCar: total weight 12107kg, cargo loaded 0.0kg| CarID90: BaggageCar: total weight 20943kg, cargo loaded 0.0kg| CarID85: PassengerCar: total weight 23559kg, cargo loaded 0.0kg| CarID86: PassengerCar: total weight 29505kg, cargo loaded 0.0kg| 
+_TrainSetID7: Locomotive ID7: name ywcwi Home station: Warsaw, current load 76205kg| % of route travelled: 0.2984607254890026 Cars: CarID57: LiquidToxicCar: total weight 5223kg, cargo loaded 0.0kg| CarID56: LiquidCar: total weight 5604kg, cargo loaded 0.0kg| CarID58: LiquidToxicCar: total weight 5712kg, cargo loaded 0.0kg| CarID51: LiquidCar: total weight 6237kg, cargo loaded 0.0kg| CarID52: RefrigeratedCar: total weight 6592kg, cargo loaded 0.0kg| CarID55: ToxicCar: total weight 7201kg, cargo loaded 0.0kg| CarID54: RestaurantCar: total weight 8222kg, cargo loaded 0.0kg| CarID59: RefrigeratedCar: total weight 9075kg, cargo loaded 0.0kg| CarID53: PostOfficeCar: total weight 10156kg, cargo loaded 0.0kg| CarID60: ExplosivesCar: total weight 12178kg, cargo loaded 0.0kg| 
+_TrainSetID21: Locomotive ID21: name xkuxkcouwv Home station: Warsaw, current load 53971kg| % of route travelled: 0.4609213726467782 Cars: CarID167: GasCar: total weight 6135kg, cargo loaded 0.0kg| CarID169: ExplosivesCar: total weight 6366kg, cargo loaded 0.0kg| CarID170: LiquidCar: total weight 6991kg, cargo loaded 0.0kg| CarID166: RefrigeratedCar: total weight 7441kg, cargo loaded 0.0kg| CarID168: ExplosivesCar: total weight 11587kg, cargo loaded 0.0kg| CarID171: PassengerCar: total weight 15448kg, cargo loaded 0.0kg| 
+_TrainSetID4: Locomotive ID4: name xcqgclt Home station: Warsaw, current load 90118kg| % of route travelled: 0.6430949758657033 Cars: CarID33: RestaurantCar: total weight 5067kg, cargo loaded 0.0kg| CarID31: ExplosivesCar: total weight 7801kg, cargo loaded 0.0kg| CarID30: ToxicCar: total weight 9346kg, cargo loaded 0.0kg| CarID27: RefrigeratedCar: total weight 10797kg, cargo loaded 0.0kg| CarID28: BaggageCar: total weight 16281kg, cargo loaded 0.0kg| CarID32: BaggageCar: total weight 16616kg, cargo loaded 0.0kg| CarID29: PostOfficeCar: total weight 24206kg, cargo loaded 0.0kg| 
+_TrainSetID3: Locomotive ID3: name neamqfikdb Home station: Warsaw, current load 57461kg| % of route travelled: 0.6488103174876972 Cars: CarID26: RefrigeratedCar: total weight 5886kg, cargo loaded 0.0kg| CarID24: LiquidToxicCar: total weight 6926kg, cargo loaded 0.0kg| CarID25: RefrigeratedCar: total weight 8139kg, cargo loaded 0.0kg| CarID22: RestaurantCar: total weight 11185kg, cargo loaded 0.0kg| CarID23: PassengerCar: total weight 25322kg, cargo loaded 0.0kg| 
+_TrainSetID14: Locomotive ID14: name xxaovefwd Home station: Warsaw, current load 73309kg| % of route travelled: 0.825980807782979 Cars: CarID109: ExplosivesCar: total weight 6525kg, cargo loaded 0.0kg| CarID108: PostOfficeCar: total weight 10005kg, cargo loaded 0.0kg| CarID110: LiquidToxicCar: total weight 12259kg, cargo loaded 0.0kg| CarID105: LiquidCar: total weight 12588kg, cargo loaded 0.0kg| CarID106: GasCar: total weight 14890kg, cargo loaded 0.0kg| CarID107: PassengerCar: total weight 17040kg, cargo loaded 0.0kg| 
+_TrainSetID22: Locomotive ID22: name bgvutph Home station: Warsaw, current load 55594kg| % of route travelled: 4.573670106174649 Cars: CarID175: ToxicCar: total weight 5200kg, cargo loaded 0.0kg| CarID174: ExplosivesCar: total weight 7558kg, cargo loaded 0.0kg| CarID176: ExplosivesCar: total weight 13804kg, cargo loaded 0.0kg| CarID172: LiquidCar: total weight 13897kg, cargo loaded 0.0kg| CarID173: PassengerCar: total weight 15133kg, cargo loaded 0.0kg| 
+_TrainSetID17: Locomotive ID17: name xeqvxror Home station: Warsaw, current load 115164kg| % of route travelled: 18.44722111396013 Cars: CarID131: RestaurantCar: total weight 6931kg, cargo loaded 0.0kg| CarID135: RestaurantCar: total weight 8092kg, cargo loaded 0.0kg| CarID132: ToxicCar: total weight 9879kg, cargo loaded 0.0kg| CarID128: LiquidToxicCar: total weight 10920kg, cargo loaded 0.0kg| CarID133: LiquidToxicCar: total weight 11188kg, cargo loaded 0.0kg| CarID129: BaggageCar: total weight 13506kg, cargo loaded 0.0kg| CarID136: PostOfficeCar: total weight 17498kg, cargo loaded 0.0kg| CarID134: BaggageCar: total weight 17643kg, cargo loaded 0.0kg| CarID130: PostOfficeCar: total weight 19503kg, cargo loaded 0.0kg| 
+
